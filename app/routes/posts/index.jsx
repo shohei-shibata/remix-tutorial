@@ -1,5 +1,3 @@
-// Next: https://remix.run/docs/en/v1/tutorials/blog#pulling-from-a-data-source
-
 import { Link, useLoaderData } from "remix";
 import { getPosts } from "~/post.js";
 
